@@ -1,4 +1,6 @@
 # That's My Spot
+A hassle-free look up for a free parking spot
+[Project Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRx3JwcXMyzI5oMRg-U0YlYKli9a701LnyJgkUt_VIyiQj46o3NX4LrTNz-cjQkATUSKNnCJUELir70/pub?start=false&loop=false&delayms=3000)
 
 
 ## Introduction
@@ -12,4 +14,4 @@ A study says 30% of cars on a road are looking for parking availability. It make
 ## Data Pipeline
 ![Process](https://github.com/aaggarwal2805/InsightProject/blob/master/docs/Selection_010.png)
 
-Data is downloaded from [City of Melbourne](https://data.melbourne.vic.gov.au/browse?limitTo=datasets&q=parking+sensor&sortBy=relevance) and saved to Amazon S3 buckets. Data is processed and transformed using pyspark dataframes and hive tables. The transformed data is written to a table in PostgreSql and visualized using Amazon Quicksight. 
+Data is downloaded from [City of Melbourne](https://data.melbourne.vic.gov.au/browse?limitTo=datasets&q=parking+sensor&sortBy=relevance) and saved to Amazon S3 buckets. Data is processed and transformed using pyspark dataframes and hive tables. The transformed data is written to a table in PostgreSql and visualized using Amazon Quicksight.
