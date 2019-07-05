@@ -1,5 +1,6 @@
-#![parking](https://github.githubassets.com/images/icons/emoji/unicode/1f17f.png?v8) That's My Spot 
-A hassle-free look up for a free parking spot
+# That's My Spot\
+![parking](https://github.githubassets.com/images/icons/emoji/unicode/1f17f.png?v8)\
+A hassle-free look up for a free parking spot\
 [Project Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRx3JwcXMyzI5oMRg-U0YlYKli9a701LnyJgkUt_VIyiQj46o3NX4LrTNz-cjQkATUSKNnCJUELir70/pub?start=false&loop=false&delayms=3000)
 
 
